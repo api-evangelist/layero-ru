@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Layero provides Russian-hosted deployment services for front‑end and back‑end applications. It offers hosting for static sites, frameworks like React, Next.js, Nuxt, Vite, Astro, Vue, SvelteKit, Angular, Remix, as well as full‑stack apps and e‑commerce. Features include PostgreSQL databases, a Data API, file storage, temporary sites, page speed optimization, and AI‑agent integration. Pricing is in rubles with support in Russian, and the platform emphasizes fast deployment via CLI, Git, or AI agents.
+Layero provides Russian-hosted deployment services for frontend and backend applications, offering hosting, databases, Data API, page speed optimization, and temporary sites. Users can deploy from Git, CLI, or AI agents, manage custom domains, and benefit from fast, secure infrastructure with AES‑256‑GCM encrypted environment variables. The platform includes documentation, quickstart guides, pricing plans, and a changelog, targeting developers seeking a locally hosted alternative to global services.
 
-**Areas:** Hosting · Deployment · Russian · Frontend · Backend
+**Areas:** Company · Hosting · Deployment · Cloud · Russian
 
 ## Layero on APIs.io
 
@@ -178,18 +178,18 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 50.7** — developing · rubric 0.28.0 · scored 2026-11-15
+**Kin Score 50.6** — developing · rubric 0.27.0 · scored 2026-11-15
 
 | Facet | Score |
 |---|---|
-| Discoverability | 76.8 |
+| Discoverability | 66.1 |
 | Contract quality | 51.7 |
 | Contract governance | 79.1 |
-| Operational transparency | 23.8 |
-| Developer ergonomics | 35.0 |
-| Access clarity | 40.9 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 28.6 |
+| Access clarity | 50.5 |
 
-**Agent readiness 48.9** — agent-ready (gated down from agent-native)
+**Agent readiness 48.5** — agent-ready (gated down from agent-native)
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -203,8 +203,8 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | OpenAPI Examples | — |
 | Rate Limit Signal | — |
 | Event Surface Described | — |
-| Agent Skills | unknown |
-| Well Known Catalog | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | yes |
